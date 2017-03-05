@@ -1,0 +1,6 @@
+[package]
+name = "syntax_and_semantics"
+version = "0.1.0"
+authors = ["Wesley Kepke <wesleykepke@nevada.unr.edu>"]
+
+[dependencies]
